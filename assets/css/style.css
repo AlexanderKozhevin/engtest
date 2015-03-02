@@ -1,3 +1,18 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url('./Octopus_500.otf'); }
+
+@font-face {
+  font-family: museo;
+  src: url('./font/MuseoSansCyrl_500.otf'); }
+
+@font-face {
+  font-family: museo300;
+  src: url('./font/MuseoSansCyrl-300.otf'); }
+
+@font-face {
+  font-family: museo300i;
+  src: url('./font/MuseoSansCyrl-300Italic.otf'); }
 
 body {
   overflow-x: hidden;
