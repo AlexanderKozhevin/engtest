@@ -1,18 +1,3 @@
-@font-face {
-  font-family: myFirstFont;
-  src: url('http://alexanderkozhevin.github.io/engtest/assets/css/font/Octopus_500.otf'); }
-
-@font-face {
-  font-family: museo;
-  src: url('http://alexanderkozhevin.github.io/engtest/assets/css/font/MuseoSansCyrl_500.otf'); }
-
-@font-face {
-  font-family: museo300;
-  src: url('http://alexanderkozhevin.github.io/engtest/assets/css/font/MuseoSansCyrl-300.otf'); }
-
-@font-face {
-  font-family: museo300i;
-  src: url('http://alexanderkozhevin.github.io/engtest/assets/css/font/MuseoSansCyrl-300Italic.otf'); }
 
 body {
   overflow-x: hidden;
