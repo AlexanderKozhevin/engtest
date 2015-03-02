@@ -58,7 +58,7 @@
       abstract: false,
       views: {
         layout: {
-          templateUrl: '/passion/assets/views/main.html',
+          templateUrl: '/engtest/assets/views/main.html',
           controller: 'VodCtrl'
         }
       }
